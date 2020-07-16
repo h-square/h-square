@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Husain. I am an Web / Android Developer and Competitive Programmer. I build things mostly with _React_, _JavaScript_, _Java_, _C++_.
+
+### 📫 Connect with me on
+
+- LinkedIn: [Husain Hirani](https://www.linkedin.com/in/husain-hirani/)
+
+### Competitive Coding Profiles
+- Codeforces: [Husain_hirani](https://codeforces.com/profile/Husain_Hirani)
+- CodeChef: [husain_hirani](https://www.codechef.com/users/husain_hirani)
+
