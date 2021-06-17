@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I’m Husain. I am an Web / Android Developer and Competitive Programmer.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-square" alt="h-square" /> </p>
 ### 📫 Connect with me on
 
 <p>
